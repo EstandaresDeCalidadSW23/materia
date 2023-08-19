@@ -88,7 +88,11 @@ PSP pretende formar ingenieros de software con métodos disciplinados para mejor
 
 
 ### 1.4 Introducción TSP
+
+Referencia: https://www.uv.mx/personal/ermeneses/files/2021/05/TSP-FebJul2021.pdf
 ### 1.5 Introducción CMM/CMMI
+
+Referencia: https://www.uv.mx/personal/asumano/files/2010/07/CMM-y-CMMI.pdf
 
 ## Unidad 2: Aseguramiento de la Calidad de Software (SQA)
 
