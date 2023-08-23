@@ -2,7 +2,7 @@
 
 ## Descripción General
 <!-- Describir de manera muy general el rol -->
-
+hola
 ## Actividades principales
 <!-- Listar las actividades principales -->
 - Actividad 1: Descripción de la actividad 1
