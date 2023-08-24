@@ -10,7 +10,7 @@ Diseñar es como resolver un problema único. No existe una única respuesta cor
 
 ## ¿Cuaales son las actividades principales de un diseñador?
 - Analisis de requerimientos: Comprende las necesidades y espectativas del cliente y los usuarios para definir los requisitos funcionales y no funcionales del software.
-- Diseño de la arquitectura: Defunir la estructura general del software, incluyendo componentes, modulos, relaciones entre ellos y como se comunican.
+- Diseño de la arquitectura: Definir la estructura general del software, incluyendo componentes, módulos, relaciones entre ellos y cómo se comunican.
 - Diseño de la interfaz de usuario (UI): Crear diseños visuales y de interacción que sean intuitivos y atractivos para los usuarios. Esto puede incluir la creación de wireframes, prototipos y diseños finales.
 - Diseño de la experiencia de usuario (UX): Garantizar que el software ofrezca una experiencia fluida y satisfactoria para los usuarios, teniendo en cuenta aspectos como la usabilidad, la accesibilidad y la facilidad de uso.
 - Creación de prototipos: Desarrollar prototipos de baja o alta fidelidad para validar conceptos y funcionalidades antes de comenzar la implementación completa.
