@@ -1,4 +1,4 @@
-# <<QA Lead>>
+# QA Lead
 
 ## Descripción General
 <!-- Describir de manera muy general el rol -->
