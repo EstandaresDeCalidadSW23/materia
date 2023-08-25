@@ -34,5 +34,5 @@ Este rol es el encargado de desarrollar las funcionalidades de los productos de 
 ## Fuentes (listar las fuentes de información consultadas)
 
 - https://www.devry.edu/online-programs/area-of-study/technology/what-does-a-software-developer-do.html
-- https://www.thebalancecareers.com/what-does-a-software-engineer-do-2071849
+- https://www.coursera.org/articles/software-engineer
 - https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm
