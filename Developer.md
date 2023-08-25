@@ -4,9 +4,9 @@
 Este rol es el encargado de desarrollar las funcionalidades de los productos de software de la empresa. Para ello, debe tener conocimientos de programación, bases de datos, arquitectura de software, entre otros. Además, debe tener conocimientos de las tecnologías que se utilizan en la empresa para el desarrollo de software.
 
 ## Actividades principales
-- Actividad 1: Realizar el desarrollo de las funcionalidades de los productos de software de la empresa.
-- Actividad 2: Realizar el mantenimiento de los productos de software de la empresa.
-- Actividad 3: Realizar el diseño de la base de datos de los productos de software de la empresa.
+- Realizar el desarrollo de las funcionalidades de los productos de software de la empresa.
+- Realizar el mantenimiento de los productos de software de la empresa.
+- Realizar el diseño de la base de datos de los productos de software de la empresa.
 
 ## Actividades secundarias
 - Estar al tanto del equipo de desarrollo de software.
