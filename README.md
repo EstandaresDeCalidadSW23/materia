@@ -97,9 +97,63 @@ Referencia: https://www.uv.mx/personal/asumano/files/2010/07/CMM-y-CMMI.pdf
 ## Unidad 2: Aseguramiento de la Calidad de Software (SQA)
 
 ### 2.1 Introducción SQA
+
+SQA tiene como objetivo aumentar la calidad de los entregables durante todo el procesos de desarrollo.
+
+Se basa en el cumpliemiento de los requerimientos establecidos, los cuales se pueden clasificarse de diversas maneras.
+
+Se pueden clasificar en:
+
+- Requerimientos funcionales: Que se espera que el software realice desde el punto de vista del negocio
+- Requerimientos no funcionales: Aspectos que impactan en la manera que el usuario interactua con el software.
+- 
 ### 2.2 Planeación SQA (SQP)
+
+Dependiendo del ciclo de vida seleccionado para el proyecto, las fases o actividades del SQA pueden variar.
+
+Normalmente un Plan de Aseguramiento de Calidad debe contener lo siguiente:
+
+- Alcance del Plan: donde se definen que módulos se van a probar
+- Casos de prueba: Especifican los diferentes escenarios de un Caso de uso
+- Metricas a reportar: en caso de que se analicen datos como performance o usabilidad, entre otras
+- Criterios de aceptación: Determinan si la versión a liberar cumple con los lineamientos mínimos de calidad esperados
+- Estrategias para reportar defectos o bugs.
+
+#### Ejemplo de un Plan de Pruebas
+
+https://jmpovedar.files.wordpress.com/2014/03/ejemplo-plan-de-pruebas.pdf
+
+
+
+
+
 ### 2.3 Pruebas de Software
-### 2.4 Auditorias
+
+Las pruebas de software ayudan a determinar si una determinada funcionalidad (o feature) cumple con lo esperado.
+
+Se pueden dividir en varias clasificaciones.
+
+Las más comunes son:
+
+- Pruebas automatizadas
+- Pruebas manuales
+
+A su vez dependiendo del alance y objetivo se pueden clasificar en:
+
+- Pruebas unitarias
+- Pruebas de integración
+- Pruebas de aceptación
+- Pruebas de sistema
+- Pruebas de performance
+- Pruebas e2e
+- Smoke test
+
+#### Ejemplo de un Test Case o Caso de Prueba
+https://spa.myservername.com/sample-test-case-template-with-test-case-examples#Download_Test_Case_Template_With_Example_Format_1
+
+### 2.4 Auditorías
+
+
 
 ## Unidad 3: Revisión de estándares ISO/IEC/IEEE
 ### 3.1 Serie 9000 (ISO 9000, ISO 9001)
