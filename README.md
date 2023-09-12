@@ -159,5 +159,7 @@ https://spa.myservername.com/sample-test-case-template-with-test-case-examples#D
 ### 3.1 Serie 9000 (ISO 9000, ISO 9001)
 ### 3.2 Serie ISO 15504 (SPICE)
 ### 3.3 ISO 12207
+<p><a href="https://www.canva.com/design/DAFt0-ET0MY/5RUgq5tfIxCpLN_GqX4w7w/edit?utm_content=DAFt0-ET0MY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton/">Ver presentación</a></p>
+
 ### 3.4 Serie ISO 25000
 ### 3.5 WQM (Modelo de calidad en Web)
