@@ -164,3 +164,4 @@ https://spa.myservername.com/sample-test-case-template-with-test-case-examples#D
 
 ### 3.4 Serie ISO 25000
 ### 3.5 WQM (Modelo de calidad en Web)
+[Ver presentación](https://www.canva.com/design/DAFt4iMQTBs/i8PwtPtF7SBb7koLjQ5m3Q/view?utm_content=DAFt4iMQTBs&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
