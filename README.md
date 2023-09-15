@@ -160,6 +160,7 @@ https://spa.myservername.com/sample-test-case-template-with-test-case-examples#D
 
 ### 3.1 Serie 9000 (ISO 9000, ISO 9001)
 
+[Ver presentación](https://www.canva.com/design/DAFt6PCvk7A/T3YbGIUlIaLWFhZ3brx-AA/watch)
 
 ### 3.2 Serie ISO 15504 (SPICE)
 
