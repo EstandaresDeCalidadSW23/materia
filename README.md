@@ -97,16 +97,85 @@ Referencia: https://www.uv.mx/personal/asumano/files/2010/07/CMM-y-CMMI.pdf
 ## Unidad 2: Aseguramiento de la Calidad de Software (SQA)
 
 ### 2.1 Introducción SQA
+
+SQA tiene como objetivo aumentar la calidad de los entregables durante todo el procesos de desarrollo.
+
+Se basa en el cumpliemiento de los requerimientos establecidos, los cuales se pueden clasificarse de diversas maneras.
+
+Se pueden clasificar en:
+
+- Requerimientos funcionales: Que se espera que el software realice desde el punto de vista del negocio
+- Requerimientos no funcionales: Aspectos que impactan en la manera que el usuario interactua con el software.
+- 
 ### 2.2 Planeación SQA (SQP)
+
+Dependiendo del ciclo de vida seleccionado para el proyecto, las fases o actividades del SQA pueden variar.
+
+Normalmente un Plan de Aseguramiento de Calidad debe contener lo siguiente:
+
+- Alcance del Plan: donde se definen que módulos se van a probar
+- Casos de prueba: Especifican los diferentes escenarios de un Caso de uso
+- Metricas a reportar: en caso de que se analicen datos como performance o usabilidad, entre otras
+- Criterios de aceptación: Determinan si la versión a liberar cumple con los lineamientos mínimos de calidad esperados
+- Estrategias para reportar defectos o bugs.
+
+#### Ejemplo de un Plan de Pruebas
+
+https://jmpovedar.files.wordpress.com/2014/03/ejemplo-plan-de-pruebas.pdf
+
+
+
+
+
 ### 2.3 Pruebas de Software
-### 2.4 Auditorias
+
+Las pruebas de software ayudan a determinar si una determinada funcionalidad (o feature) cumple con lo esperado.
+
+Se pueden dividir en varias clasificaciones.
+
+Las más comunes son:
+
+- Pruebas automatizadas
+- Pruebas manuales
+
+A su vez dependiendo del alance y objetivo se pueden clasificar en:
+
+- Pruebas unitarias
+- Pruebas de integración
+- Pruebas de aceptación
+- Pruebas de sistema
+- Pruebas de performance
+- Pruebas e2e
+- Smoke test
+
+#### Ejemplo de un Test Case o Caso de Prueba
+https://spa.myservername.com/sample-test-case-template-with-test-case-examples#Download_Test_Case_Template_With_Example_Format_1
+
+### 2.4 Auditorías
+
+
 
 ## Unidad 3: Revisión de estándares ISO/IEC/IEEE
+
+
 ### 3.1 Serie 9000 (ISO 9000, ISO 9001)
 
-https://www.canva.com/design/DAFt6PCvk7A/T3YbGIUlIaLWFhZ3brx-AA/watch
+[Ver presentación](https://www.canva.com/design/DAFt6PCvk7A/T3YbGIUlIaLWFhZ3brx-AA/watch)
 
 ### 3.2 Serie ISO 15504 (SPICE)
+
+
+[Ver presentación](https://itdelicias-my.sharepoint.com/:p:/g/personal/l15540393_delicias_tecnm_mx/Ef8gEFO0qANFiNVJ460ekNUBO2WzHqF4WSuHyyr_munKig?e=1TlmAI)
+
+
 ### 3.3 ISO 12207
+
+[Ver presentación](https://www.canva.com/design/DAFt0-ET0MY/5RUgq5tfIxCpLN_GqX4w7w/edit?utm_content=DAFt0-ET0MY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton/)
+
 ### 3.4 Serie ISO 25000
+
+[Ver presentación](https://itcdjimenez-my.sharepoint.com/:p:/g/personal/fmgarcia_cdjimenez_tecnm_mx/EeLBDwUbHdNBos_UBfAELiQBqMsINlRfxDb9h_X_1Xhanw?e=OmDhCK)
+
 ### 3.5 WQM (Modelo de calidad en Web)
+
+[Ver presentación](https://www.canva.com/design/DAFt4iMQTBs/i8PwtPtF7SBb7koLjQ5m3Q/view?utm_content=DAFt4iMQTBs&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
