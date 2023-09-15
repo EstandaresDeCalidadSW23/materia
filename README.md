@@ -103,6 +103,9 @@ Referencia: https://www.uv.mx/personal/asumano/files/2010/07/CMM-y-CMMI.pdf
 
 ## Unidad 3: Revisión de estándares ISO/IEC/IEEE
 ### 3.1 Serie 9000 (ISO 9000, ISO 9001)
+
+https://www.canva.com/design/DAFt6PCvk7A/T3YbGIUlIaLWFhZ3brx-AA/watch
+
 ### 3.2 Serie ISO 15504 (SPICE)
 ### 3.3 ISO 12207
 ### 3.4 Serie ISO 25000
