@@ -2,7 +2,7 @@
 
 ## Plan de trabajo
 
-https://www.delicias.tecnm.mx/doc/Oferta_Educativa/Sistemas/7Semestre/EstandaresDeCalidadSoftware.pdf
+[Ver plan de trabajo](https://www.delicias.tecnm.mx/doc/Oferta_Educativa/Sistemas/7Semestre/EstandaresDeCalidadSoftware.pdf)
 
 ## Unidad 1: Personal Software Process (PSP)
 
@@ -10,27 +10,25 @@ https://www.delicias.tecnm.mx/doc/Oferta_Educativa/Sistemas/7Semestre/Estandares
 
 #### ¿Qué es calidad?
 
-Según la RAE, Calidad es "Propiedad o conjunto de propiedades inherentes a algo, que permiten juzgar su valor".
+Según la RAE, Calidad es:
 
-Otras definiciones
+> "Propiedad o conjunto de propiedades inherentes a algo, que permiten juzgar su valor".
 
-Un conjunto de características subyacentes a un producto o servicio que cumplen determinados requisitos para satisfacer las necesidades de un cliente.
+Otras definiciones:
 
-Referencia: https://saludelectronica.com/calidad-del-software/
+> Un conjunto de características subyacentes a un producto o servicio que cumplen determinados requisitos para satisfacer las necesidades de un cliente. [Referencia](https://saludelectronica.com/calidad-del-software/)
 
-Es la aptitud de un producto o servicio para satisfacer las necesidades del usuario.
+> Es la aptitud de un producto o servicio para satisfacer las necesidades del usuario. [Referencia](https://es.wikipedia.org/wiki/Calidad_de_software)
 
-Referencia: https://es.wikipedia.org/wiki/Calidad_de_software
-
-La Calidad del software, por definición, es el grado en que un sistema, componente o proceso, cumple con los requisitos especificados y satisface las necesidades del usuario o cliente.
-
-Referencia: https://www.qalovers.com/2019/02/que-es-la-calidad-del-software.html
+> La Calidad del software, por definición, es el grado en que un sistema, componente o proceso, cumple con los requisitos especificados y satisface las necesidades del usuario o cliente. [Referencia](https://www.qalovers.com/2019/02/que-es-la-calidad-del-software.html)
 
 (Lluvia de ideas)
 
 #### ¿Cómo medimos la calidad?
 
-Para poder medir el grado de "calidad" de un producto o servicio, el primer paso es establecer cuales son las caracteristicas del mismo, y que métricas son las que se van a considerar dentro de la medición. Posteriormente se establecen los parámetros o rangos aceptables de cada métrica. Una vez realizado lo anterior, se procede a recopilar mediciones a tráves de diferentes instrumentos y compararlos con nuestro estándar o rangos de aceptación definidos.
+Para poder medir el grado de "calidad" de un producto o servicio, el primer paso es establecer cuales son las caracteristicas del mismo, y que métricas son las que se van a considerar dentro de la medición.
+
+Posteriormente se establecen los parámetros o rangos aceptables de cada métrica. Una vez realizado lo anterior, se procede a recopilar mediciones a tráves de diferentes instrumentos y compararlos con nuestro estándar o rangos de aceptación definidos.
 
 En el caso del Software, normalmente una de los principales métricas es el porcentaje de cumplimiento con los requisitos funcionales del mismo. Sin embargo también es necesario considerar los aspectos no funcionales como: facilidad de uso, performance, confiabilidad, etc.
 
@@ -99,11 +97,11 @@ PSP pretende formar ingenieros de software con métodos disciplinados para mejor
 
 ### 1.4 Introducción TSP
 
-Referencia: https://www.uv.mx/personal/ermeneses/files/2021/05/TSP-FebJul2021.pdf
+[Ver documento](https://www.uv.mx/personal/ermeneses/files/2021/05/TSP-FebJul2021.pdf)
 
 ### 1.5 Introducción CMM/CMMI
 
-Referencia: https://www.uv.mx/personal/asumano/files/2010/07/CMM-y-CMMI.pdf
+[Ver documento](https://www.uv.mx/personal/asumano/files/2010/07/CMM-y-CMMI.pdf)
 
 ## Unidad 2: Aseguramiento de la Calidad de Software (SQA)
 
@@ -124,15 +122,15 @@ Dependiendo del ciclo de vida seleccionado para el proyecto, las fases o activid
 
 Normalmente un Plan de Aseguramiento de Calidad debe contener lo siguiente:
 
-- Alcance del Plan: donde se definen que módulos se van a probar
-- Casos de prueba: Especifican los diferentes escenarios de un Caso de uso
-- Metricas a reportar: en caso de que se analicen datos como performance o usabilidad, entre otras
-- Criterios de aceptación: Determinan si la versión a liberar cumple con los lineamientos mínimos de calidad esperados
+- **Alcance del Plan**: donde se definen que módulos se van a probar
+- **Casos de prueba**: Especifican los diferentes escenarios de un Caso de uso
+- **Metricas a reportar**: en caso de que se analicen datos como performance o usabilidad, entre otras
+- **Criterios de aceptación**: Determinan si la versión a liberar cumple con los lineamientos mínimos de calidad esperados
 - Estrategias para reportar defectos o bugs.
 
 #### Ejemplo de un Plan de Pruebas
 
-https://jmpovedar.files.wordpress.com/2014/03/ejemplo-plan-de-pruebas.pdf
+[Ver ejemplo](https://jmpovedar.files.wordpress.com/2014/03/ejemplo-plan-de-pruebas.pdf)
 
 ### 2.3 Pruebas de Software
 
@@ -157,7 +155,7 @@ A su vez dependiendo del alance y objetivo se pueden clasificar en:
 
 #### Ejemplo de un Test Case o Caso de Prueba
 
-https://spa.myservername.com/sample-test-case-template-with-test-case-examples#Download_Test_Case_Template_With_Example_Format_1
+[Ver ejemplo](https://spa.myservername.com/sample-test-case-template-with-test-case-examples#Download_Test_Case_Template_With_Example_Format_1)
 
 ### Entrevista a Senior QA
 
