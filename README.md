@@ -14,7 +14,7 @@ Según la RAE, Calidad es "Propiedad o conjunto de propiedades inherentes a algo
 
 Otras definiciones
 
-Un conjunto de características subyacentes a un producto o servicio que cumplen determinados requisitos para satisfacer las necesidades de un cliente. 
+Un conjunto de características subyacentes a un producto o servicio que cumplen determinados requisitos para satisfacer las necesidades de un cliente.
 
 Referencia: https://saludelectronica.com/calidad-del-software/
 
@@ -38,10 +38,10 @@ En el caso del Software, normalmente una de los principales métricas es el porc
 
 (Lluvia de ideas)
 
-
 ### 1.2 Introducción a PSP.
 
 #### ¿Que es el PSP?
+
 El proceso personal de software, PSP, es un conjunto de prácticas disciplinadas para la gestión del tiempo y mejora de la productividad personal de los programadores o ingenieros de software, en tareas de desarrollo y mantenimiento de sistemas, mediante el seguimiento del desempeño predicho frente al desempeño real.
 
 #### Objetivos
@@ -68,28 +68,39 @@ PSP pretende formar ingenieros de software con métodos disciplinados para mejor
 ### 1.3 Niveles PSP.
 
 #### PSP 0:
+
 - Proceso actual.
 - Registro de tiempos.
 - Registro de defectos.
+
 #### PSP 0.1 :
+
 - Estándares de código.
 - Medición de tamaño.
+
 #### PSP 1 - Inicial:
+
 - Estimación de tamaño.
 - Reporte de pruebas.
+
 #### PSP 1.1:
+
 - Calendario de planeación de tareas.
+
 #### PSP 2 - Repetible:
+
 - Revisión de diseño y código.
+
 #### PSP 2.1:
+
 - Plantillas de Diseño.
 
 #### (TSP).
 
-
 ### 1.4 Introducción TSP
 
 Referencia: https://www.uv.mx/personal/ermeneses/files/2021/05/TSP-FebJul2021.pdf
+
 ### 1.5 Introducción CMM/CMMI
 
 Referencia: https://www.uv.mx/personal/asumano/files/2010/07/CMM-y-CMMI.pdf
@@ -106,7 +117,7 @@ Se pueden clasificar en:
 
 - Requerimientos funcionales: Que se espera que el software realice desde el punto de vista del negocio
 - Requerimientos no funcionales: Aspectos que impactan en la manera que el usuario interactua con el software.
-- 
+
 ### 2.2 Planeación SQA (SQP)
 
 Dependiendo del ciclo de vida seleccionado para el proyecto, las fases o actividades del SQA pueden variar.
@@ -122,10 +133,6 @@ Normalmente un Plan de Aseguramiento de Calidad debe contener lo siguiente:
 #### Ejemplo de un Plan de Pruebas
 
 https://jmpovedar.files.wordpress.com/2014/03/ejemplo-plan-de-pruebas.pdf
-
-
-
-
 
 ### 2.3 Pruebas de Software
 
@@ -149,14 +156,18 @@ A su vez dependiendo del alance y objetivo se pueden clasificar en:
 - Smoke test
 
 #### Ejemplo de un Test Case o Caso de Prueba
+
 https://spa.myservername.com/sample-test-case-template-with-test-case-examples#Download_Test_Case_Template_With_Example_Format_1
+
+### Entrevista a Senior QA
+
+[Ver video](https://www.youtube.com/watch?v=f06fQRkhe54)
 
 ### 2.4 Auditorías
 
-
+Pendiente de agregar...
 
 ## Unidad 3: Revisión de estándares ISO/IEC/IEEE
-
 
 ### 3.1 Serie 9000 (ISO 9000, ISO 9001)
 
@@ -164,9 +175,7 @@ https://spa.myservername.com/sample-test-case-template-with-test-case-examples#D
 
 ### 3.2 Serie ISO 15504 (SPICE)
 
-
 [Ver presentación](https://itdelicias-my.sharepoint.com/:p:/g/personal/l15540393_delicias_tecnm_mx/Ef8gEFO0qANFiNVJ460ekNUBO2WzHqF4WSuHyyr_munKig?e=1TlmAI)
-
 
 ### 3.3 ISO 12207
 
