@@ -268,7 +268,7 @@ El valor de retorno de la función debe ser una cadena de texto que representa l
 - `[0-59]` segundos. Regresar el número de segundos: `"0s"`, `"1s"`, `"2s"`, ..., `"59s"`
 - `[1-59] * 60` segundos. Regresar el número de minutos: `"1m"`, `"2m"`, `"3m"`, ..., `"59m"`
 - `[1-23] * 3600` segundos. Regresar el número de horas `"1h"`, `"2h"`, `"3h"`, ..., `"23h"`
-- `[1-6] * 3600 * 24` segundos. Regresar el número de días: `"1d"`, `"2d"`, `"3d"`, ..., `"23h"`
+- `[1-6] * 3600 * 24` segundos. Regresar el número de días: `"1d"`, `"2d"`, `"3d"`, ..., `"6d"`
 - `[n > 0] * 3600 * 24 * 7` segundos. Regresar el número de semanas: `"1w"`, `"2w"`, `"3w"`, etc...
 - `[n > 0] * 3600 * 24 * 365` segundos. Regresar el número de años: `"1y"`, `"2y"`, `"3y"`, etc...
 
