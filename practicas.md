@@ -718,3 +718,18 @@ git push -u origin main
 ```
 
 7. Recargar la página y ver que los archivos se encuentran ya disponibles
+8. Agregamos un archivo `README.md` en la raiz del proyecto con el siguiente contenido:
+```md
+# Unit Test Kata
+
+Hola, mi nombre es **Tu Nombre** y en este proyecto aprendí (aqui poner que aprendiste)
+
+```
+9. Guardamos los cambios y publicamos este cambio
+```
+git status
+git add .
+git commit -m "Se agrega archivo README"
+git push
+```
+10. Revisamos de nuevo en Github que nuestro archivo ya se encuentra disponible.   
