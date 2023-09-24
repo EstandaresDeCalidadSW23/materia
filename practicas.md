@@ -414,7 +414,7 @@ git add .
 git commit -m "Se agrega función time y prueba unitaria para validar 0 segundos"
 ```
 
-9. Ahora debemos nuevos escenarios, pero antes modificamos un poco nuestro script para correr las pruebas, para ello abrimos el archivo `package.json`
+9. Ahora debemos agregar nuevos escenarios, pero antes modificamos un poco nuestro script para correr las pruebas, para ello abrimos el archivo `package.json`
 
 ```
 "scripts": {
@@ -463,7 +463,7 @@ git add .
 git commit -m "Se agrega escenario 1 segundo"
 ```
 
-> **Nota**: Cada vez que nuestro código pase las pruebas debemos realizar un commit para asegurarnos de que tenemos un punto estable en todo momento.
+> :white_check_mark: **Nota**: Cada vez que nuestro código pase las pruebas debemos realizar un commit para asegurarnos de que tenemos un punto estable en todo momento.
 
 13. Agregamos los escenarios para 2, 3 y 59 segundos. Podemos copiar las pruebas anteriores y cambiar los parámetros de entrada y el resultado esperado. Notamos que en este caso no es necesario modificar el código ya que las pruebas están pasando.
 
@@ -575,7 +575,7 @@ module.exports = time;
 
 18. De nuevo agregamos más escenarios para 3 y 59 minutos.
 
-> Tip: para mejorar la legibilidad de las pruebas se pueden utilizar constantes para el número de minutos.
+> :bulb: Tip: para mejorar la legibilidad de las pruebas se pueden utilizar constantes para el número de minutos.
 
 ```js
 // test/time.test.js
@@ -706,30 +706,34 @@ En esta práctica el alumno publicará su código en Github para la evaluación 
 
 1. Abrimos un navegador e ingresamos a la siguiente [dirección](https://github.com/orgs/EstandaresDeCalidadSW23/repositories).
 2. Damos clic en el botón **New Repository**
-3. En el nombre del repositorio tecleamos lo siguiente: `tu-nombre-unit-test-kata`. Ejemplo `benjamin-unit-test-kata`.
+3. En el nombre del repositorio tecleamos lo siguiente: `<<tu-nombre>>-unit-test-kata`. Ejemplo `benjamin-unit-test-kata`.
 4. Seleccionamos la opción Public como tipo de repositorio
 5. Dejamos las demás opciones sin modificar y damos clic en el botón **Create repository**
 6. En la siguiente pantalla nos da la opción para publicar nuestro proyecto existente (Opción `"…or push an existing repository from the command line"`)
+   > :warning: Reemplazar `<<tu-nombre>>` en el comando antes de ejecutarlo
 
 ```
-git remote add origin git@github.com:EstandaresDeCalidadSW23/benjamin-unit-test-kata.git
+git remote add origin git@github.com:EstandaresDeCalidadSW23/<<tu-nombre>>-unit-test-kata.git
 git branch -M main
 git push -u origin main
 ```
 
 7. Recargar la página y ver que los archivos se encuentran ya disponibles
-8. Agregamos un archivo `README.md` en la raiz del proyecto con el siguiente contenido:
+8. Agregamos un archivo `README.md` en la raíz del proyecto con el siguiente contenido:
+
 ```md
 # Unit Test Kata
 
-Hola, mi nombre es **Tu Nombre** y en este proyecto aprendí (aqui poner que aprendiste)
-
+Hola, mi nombre es **Tu Nombre** y en este proyecto aprendí (aquí poner que aprendiste)
 ```
+
 9. Guardamos los cambios y publicamos este cambio
+
 ```
 git status
 git add .
 git commit -m "Se agrega archivo README"
 git push
 ```
-10. Revisamos de nuevo en Github que nuestro archivo ya se encuentra disponible.   
+
+10. Revisamos de nuevo en Github que nuestro archivo ya se encuentra disponible.
